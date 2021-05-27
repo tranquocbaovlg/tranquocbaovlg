@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tranquocbaovlg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in the areas of web development, media, a little music and Humanized education for children in general (especially Catholic children)
+- 🌱 I’m currently learning information technology at HCMC University of Transport. 
+- 💞️ I’m looking to collaborate on my parish - Dinh Khao parish, to preach the Kingdom of God to all people.
+- 📫 How to reach me?
+- You can contact me via:
+     Phone Number: (+84) 0788963500
+     Messenger inbox: at [Tran Quoc Bao](https://m.me/micaetranquocbao)
 
-<!---
-tranquocbaovlg/tranquocbaovlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Khai giang khoa Chuyen Hieu Chuyen Thong Co Ban](https://1.bp.blogspot.com/-XFf554tCqdI/YAgHXdb2qsI/AAAAAAAAXsg/_62gJf6cEMwzHiWaa7Y5eulqiPTzCRnzACLcBGAsYHQ/s16000/20210113KhaiGiangChuyenHieuTruyenThongGabriel2_05.jpg)
